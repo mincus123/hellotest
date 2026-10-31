@@ -1,0 +1,10 @@
+{
+  "flibber": "zorp-noodle",
+  "wumbus": 42,
+  "snazzle_active": true,
+  "plonk": ["bim", "baz", "quuxle"],
+  "grumble": {
+    "floof_level": 9001,
+    "mip_mop": null
+  }
+}
